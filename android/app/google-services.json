@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "485964982442",
+    "project_id": "admscialmediaapp",
+    "storage_bucket": "admscialmediaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485964982442:android:a7df4ea24fb607238d88d3",
+        "android_client_info": {
+          "package_name": "com.adm.adm_socialmedia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485964982442-b3aop51l2gs1okrd3f2can54usin2bob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adm.adm_socialmedia_app",
+            "certificate_hash": "c9f39e2af11cbd11e73e7b5fe4903944cc03f7a1"
+          }
+        },
+        {
+          "client_id": "485964982442-ghi91o7jsrhbl0lghg6r4e4ftes06hb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adm.adm_socialmedia_app",
+            "certificate_hash": "57ea77e03a9c02374c603fbed2a2cc541176e0e1"
+          }
+        },
+        {
+          "client_id": "485964982442-jfbh56278fkv2q555pvc1ecamhq0k60n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adm.adm_socialmedia_app",
+            "certificate_hash": "c9f39e2af11cbd11e73e7b5fe4903944cc03f7a3"
+          }
+        },
+        {
+          "client_id": "485964982442-h85pt42n7o28hj29cclnjtfpo7bmhgmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpqeShpBj8i6nuMY6DC0UD68N1jJ6ITIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485964982442-h85pt42n7o28hj29cclnjtfpo7bmhgmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485964982442:android:921c025a801cf5fa8d88d3",
+        "android_client_info": {
+          "package_name": "com.example.adm_socialmedia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485964982442-8q2slju3u1uds60vh79lk85ofnuperra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adm_socialmedia_app",
+            "certificate_hash": "57ea77e03a9c02374c603fbed2a2cc541176e0e1"
+          }
+        },
+        {
+          "client_id": "485964982442-h85pt42n7o28hj29cclnjtfpo7bmhgmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpqeShpBj8i6nuMY6DC0UD68N1jJ6ITIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485964982442-h85pt42n7o28hj29cclnjtfpo7bmhgmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6992050090491868~7193787058"
+    }
+  ],
+  "configuration_version": "1"
+}
